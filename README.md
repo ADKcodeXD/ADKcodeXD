@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm AdkCodeXd</h1>
+<h1 align="center">Hi 👋, I'm ADK</h1>
 <h3 align="center">一名入门前端开发工程师</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adkcodexd&label=Profile%20views&color=0e75b6&style=flat" alt="adkcodexd" /> </p>
 
-- 🔭 I’m currently working on **家里蹲开发公司**
+- 🔭 I’m currently working on **德国科学技术外国企业(OD)**
 
-- 🌱 I’m currently learning **Vue React**
+- 🌱 I’m currently learning **Node.js Koa2**
 
-- 🤝 I’m looking for help with [ADK-blog](http://adkdream.top)
+- 🤝 I’m looking for help with [MMGC](http://adkdream.top)
 
 - 📫 How to reach me **790532173@qq.com**
 
@@ -35,13 +35,18 @@
 ## 目前掌握技术栈
 
 ### 前端
-vue2+vue3 TypeScript es6 vant uniapp uView Element
+TypeScript！ Vue3  Nuxt3  AntDesign
+
 ### 后端
-Spring Springboot2.x **
+node.js koa2
 
-*准备学习Three.js +webgl 
-未来一年目标：学习React native，flutter，等前沿技术。将TypeScript熟练，深入学习node.js。*
+## 筹备中
+
+基于Vben+Nuxt3+Koa2的全新项目 --- mmgc黄金祭官网
+
+目前进度 20%
+
+开发文档:https://www.apifox.cn/apidoc/shared-bd724fe0-8a70-4aa4-a631-61c6653c9c87
 
 
-
-update 2022.6.5
+update 2022.11.21
