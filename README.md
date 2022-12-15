@@ -29,7 +29,8 @@
 </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adkcodexd&" alt="adkcodexd" /></p>
 
-
+## OSU~~
+<img src="https://osu-sig.vercel.app/card?user=ADK&mode=std&blur=6&animation=true&mini=true" />
 
 
 ## 目前掌握技术栈
