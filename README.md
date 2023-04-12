@@ -37,11 +37,12 @@ node.js koa2
 
 ## 筹备中
 
-基于Vben+Nuxt3+Koa2的全新项目 --- mmgc黄金祭官网
+基于Vben+Nuxt3+Koa2的项目 --- mmgc黄金祭官网
 
-目前进度 20%
+目前进度 90% <br/>
+缺乏手机端的支持 不过正在使用了 <br/>
 
-开发文档:https://www.apifox.cn/apidoc/shared-bd724fe0-8a70-4aa4-a631-61c6653c9c87
+公开地址:https://mirai-mad.com/  <br/>
+接口文档:https://www.apifox.cn/apidoc/shared-bd724fe0-8a70-4aa4-a631-61c6653c9c87
 
-
-update 2022.11.21
+update 2023.04.12
