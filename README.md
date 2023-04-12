@@ -3,6 +3,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adkcodexd&label=Profile%20views&color=0e75b6&style=flat" alt="adkcodexd" /> </p>
 <h4 align="center">谁又会想在一个下坡路行业 没有前途的岗位上继续干下去呢？</h4>
 
+![image](https://user-images.githubusercontent.com/88375547/231450518-6f4557ca-2dda-4d3d-af26-8e19f9a55087.png)
+
 也许是弱者的发言，也许是逃避的谎言<br/>
 总而言之，我承认我的软弱和无能
 
