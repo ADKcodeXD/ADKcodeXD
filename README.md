@@ -1,8 +1,9 @@
-<h1 align="center">ADK 废物预备役</h1>
-<h3 align="center">一名出门前端开发工程师</h3>
-
-<h4>沉淀。</h4>
-
+<h1 align="center">ADK Profile</h1>
+<img height="160px" src="https://bocchi.rocks/tv/assets/img/page/special/present_ep9/ph_c3.png" />
+- 一个入门前端
+- 一个入门视频制作者
+- 想要制作游戏和动画片
+- 却迟迟因为行动力而驻足不前
 <a href="https://github.com/ADKcodeXD/ADKcodeXD"> 
   <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=adkcodexd&show_icons=true&theme=dracula" />
 </a>
@@ -23,14 +24,6 @@ TypeScript！ Vue3  Nuxt3  AntDesign
 ### 后端
 node.js koa2
 
-## 筹备中
+## 已上线
 
-基于Vben+Nuxt3+Koa2的项目 --- mmgc黄金祭官网
-
-目前进度 90% <br/>
-缺乏手机端的支持 不过正在使用了 <br/>
-
-公开地址:https://mirai-mad.com/  <br/>
-接口文档:https://www.apifox.cn/apidoc/shared-bd724fe0-8a70-4aa4-a631-61c6653c9c87
-
-update 2023.04.12
+黄金祭活动官网 -> Click:<a href="mirai-mad.com">mirai-mad.com</a>
