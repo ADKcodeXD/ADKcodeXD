@@ -38,4 +38,4 @@ node.js koa2
 
 ## 已上线
 
-黄金祭活动官网 -> Click:<a href="mirai-mad.com">mirai-mad.com</a>
+黄金祭活动官网 -> Click:<a href="https://mirai-mad.com">mirai-mad.com</a>
