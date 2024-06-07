@@ -5,37 +5,17 @@
 </div>
 
 ## List
-- 一个入门前端
+- 一个入门程序员
 - 一个入门视频制作者
-- 想要制作游戏和动画片
-- 却迟迟因为行动力而驻足不前
 - 会写点简单易懂的脚本 专业gpt使用者
-  
-## 一些没用但看起来很厉害的东西
-<div style="display:flex;align-items:center;gap:12px;">
-  <a href="https://github.com/ADKcodeXD/ADKcodeXD"> 
-    <img align="left" width="33%" style="margin-right:4px;" src="https://github-readme-stats.vercel.app/api?username=adkcodexd&show_icons=true&theme=dracula" />
-  </a>
-
-  <a href="https://github.com/ADKcodeXD/ADKcodeXD"> 
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkcodexd&show_icons=true&layout=compact&theme=dracula"/>
-  </a>
-
-  <p><img  width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=adkcodexd&" alt="adkcodexd" /></p>
-</div>
 
 ## OSU~~
 <img src="https://osu-sig.vercel.app/card?user=ADK&mode=std&blur=6&animation=true&mini=true" />
 
-
-## 目前掌握技术栈
-
-### 前端
-TypeScript！ Vue3  Nuxt3  AntDesign
-
-### 后端
-node.js koa2
-
-## 已上线
-
-黄金祭活动官网 -> Click:<a href="https://mirai-mad.com">mirai-mad.com</a>
+## Skills
+Proficient in Java, C#, Node.js, and related frameworks, skilled in setting up server-side code and providing RestfulAPI services.
+Skilled in JavaScript, proficient in using Vue or React ecosystems to build front-end pages.
+Proficient in TypeScript, capable of incorporating TypeScript into engineering practices.
+Familiar with open-source databases such as MySQL, MongoDB, and Redis, with a certain level of DB awareness and management capabilities.
+Knowledgeable in SEO optimization, able to enhance website performance and SEO through SSR and middleware.
+Understanding of Python, capable of writing utility scripts.
