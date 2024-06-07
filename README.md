@@ -13,9 +13,9 @@
 <img src="https://osu-sig.vercel.app/card?user=ADK&mode=std&blur=6&animation=true&mini=true" />
 
 ## Skills
-Proficient in Java, C#, Node.js, and related frameworks, skilled in setting up server-side code and providing RestfulAPI services.
-Skilled in JavaScript, proficient in using Vue or React ecosystems to build front-end pages.
-Proficient in TypeScript, capable of incorporating TypeScript into engineering practices.
-Familiar with open-source databases such as MySQL, MongoDB, and Redis, with a certain level of DB awareness and management capabilities.
-Knowledgeable in SEO optimization, able to enhance website performance and SEO through SSR and middleware.
-Understanding of Python, capable of writing utility scripts.
+- Proficient in Java, C#, Node.js, and related frameworks, skilled in setting up server-side code and providing RestfulAPI services.
+- Skilled in JavaScript, proficient in using Vue or React ecosystems to build front-end pages.
+- Proficient in TypeScript, capable of incorporating TypeScript into engineering practices.
+- Familiar with open-source databases such as MySQL, MongoDB, and Redis, with a certain level of DB awareness and management capabilities.
+- Knowledgeable in SEO optimization, able to enhance website performance and SEO through SSR and middleware.
+- Understanding of Python, capable of writing utility scripts.
