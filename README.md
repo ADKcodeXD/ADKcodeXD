@@ -10,7 +10,7 @@
 - Avaliable in write some simple scripts. Profienct in gpt use. 会写点简单易懂的脚本 专业gpt使用者
 
 ## Short Target
-- Pass Ielts Examination (Above Bang 6.5) 通过雅思 （总分6.5或2以上）
+- Pass Ielts Examination (Above Band 6.5) 通过雅思 （总分6.5或以上）
 - Learn AI Application framework ( Langchain, Langgraph, Embedding, Vector Database, Agent ) 学习AI应用框架
 - Learn Nextjs and flutter. 学习Nextjs以及flutter
 - Learn Go or C# (Low pority) 学习Go或者C# (低优先级)
